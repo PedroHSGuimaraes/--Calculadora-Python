@@ -28,7 +28,7 @@ Este é um projeto simples de uma calculadora utilizando a biblioteca Tkinter do
 
 3. Execute o script `calculadora.py`:
     ```sh
-    python calculadora.py
+    python main.py
     ```
 
 ## Estrutura do Código
